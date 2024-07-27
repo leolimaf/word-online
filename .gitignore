@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+Migrations/
+
+.vs/
+.idea/
+OnlineTextEditor.sln.DotSettings.user
