@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using OnlineTextEditor.Models;
+using WordOnline.Models;
 
-namespace OnlineTextEditor.Data;
+namespace WordOnline.Data;
 
 public class AppDbContext : DbContext
 {

@@ -1,4 +1,4 @@
-namespace OnlineTextEditor.Models;
+namespace WordOnline.Models;
 
 public class ErrorViewModel
 {

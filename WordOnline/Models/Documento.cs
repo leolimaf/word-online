@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace OnlineTextEditor.Models;
+namespace WordOnline.Models;
 
 public class Documento
 {

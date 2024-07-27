@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using OnlineTextEditor.Data;
+using WordOnline.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
